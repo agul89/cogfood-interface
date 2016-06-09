@@ -1,0 +1,42 @@
+body {
+    padding-top: 60px;
+}
+
+.navbar .btn {
+    margin-top: 7px;
+}
+
+.burger {
+    width: 200px;
+}
+
+.panel .btn {
+    margin-bottom: 20px;
+}
+
+.panel h3 {
+    margin-top: 5px;
+}
+
+.total span {
+  font-weight: bold;
+}
+
+.paid {
+    color: #18bc9c;
+}
+
+.paid span {
+    font-weight: bold;
+}
+
+.actions {
+    text-align: right;
+    font-size: 20px;
+}
+
+.actions .fa {
+    cursor: pointer;
+    color: #95a5a6;
+    margin-left: 2px;
+}
